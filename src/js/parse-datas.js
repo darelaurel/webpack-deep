@@ -1,4 +1,4 @@
-export default class ParseData
+export class ParseData
 {
     constructor(title)
     {
